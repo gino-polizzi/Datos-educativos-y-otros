@@ -1,0 +1,10 @@
+data/
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.dta
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/
